@@ -6,7 +6,7 @@
 
 - 📚 Estoy llevando un curso de **Java Full Stack con Angular.**
 
-- 💼 Quiero colaborar en un puesto como  **Desarrollador Web**, ya sea Frontend o Backend, siempre dispuesto a seguir aprendiendo.
+- 💼 Quiero colaborar en un puesto como  **Desarrollador**, ya sea Frontend o Backend, siempre dispuesto a seguir aprendiendo.
 
 - 💻 Algunos de mis proyectos están disponibles en [marcodelacruz.netlify.app/](https://marcodelacruz.netlify.app/ "marcodelacruz.netlify.app/")
 
