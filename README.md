@@ -2,15 +2,15 @@
 <h2 align="center">Desarrollador Web</h2>
 <h3>Soy una persona autodidacta, constantemente tomando cursos para aprender nuevas tecnologías.</h3>
 
-- 👨🏻‍💻 Actualmente estoy trabajando en un proyecto personal - App web.**
+- 👨🏻‍💻 Actualmente estoy trabajando en un proyecto personal - App web.
 
-- 📚 Llevando cursos de especialización full-stack.**
+- 📚 Llevando cursos de especialización full-stack.
 
 - 💻 Algunos de mis proyectos están disponibles en [marcodelacruz.herokuapp.com/](https://marcodelacruz.herokuapp.com// "marcodelacruz.herokuapp.com")
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://marcodelacruz.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://marcodelacruz.netlify.app/" height="30" width="40" />Portafolio</a> <a href="https://www.linkedin.com/in/marcodelacruzh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcodelacruzh/" height="30" width="40" />LinkedIn</a>
+<a href="https://marcodelacruz.herokuapp.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://marcodelacruz.herokuapp.com/" height="30" width="40" />Portafolio</a> <a href="https://www.linkedin.com/in/marcodelacruzh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcodelacruzh/" height="30" width="40" />LinkedIn</a>
 </p>
 
 <h3 align="left">Habilidades:</h3>
