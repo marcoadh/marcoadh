@@ -1,14 +1,12 @@
 <h1 align="center">Hola 👋, soy Marco De la cruz</h1>
-<h2 align="center">Desarrollador Web Junior</h2>
+<h2 align="center">Desarrollador Web</h2>
 <h3>Soy una persona autodidacta, constantemente tomando cursos para aprender nuevas tecnologías.</h3>
 
-- 👨🏻‍💻 Estoy trabajando en **una aplicación web con Java.**
+- 👨🏻‍💻 Actualmente estoy trabajando en un proyecto personal - App web.**
 
-- 📚 Estoy llevando un curso de **Java Full Stack con Angular.**
+- 📚 Llevando cursos de especialización full-stack.**
 
-- 💼 Quiero colaborar en un puesto como  **Desarrollador**, ya sea Frontend o Backend, siempre dispuesto a seguir aprendiendo.
-
-- 💻 Algunos de mis proyectos están disponibles en [marcodelacruz.netlify.app/](https://marcodelacruz.netlify.app/ "marcodelacruz.netlify.app/")
+- 💻 Algunos de mis proyectos están disponibles en [marcodelacruz.herokuapp.com/](https://marcodelacruz.herokuapp.com// "marcodelacruz.herokuapp.com")
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
