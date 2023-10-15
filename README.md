@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Marco De la cruz</h1>
 <h3 align="center">Desarrollador Web Full-Stack</h3>
 
-- 🔭 Actualmente estoy trabajando en un **proyecto personal**
+- 🔭 Actualmente estoy trabajando en una **Aplicación web personal** con tecnologías como **Ruby on Rails, JavaScript, Bootstrap, MySQL** y siendo deployado en **Digital Ocean**
 
-- 🌱 Actualmente estoy aprendiendo **Rails 7, ReactJS**
+- 🌱 Actualmente estoy aprendiendo **Java - Spring Boot, Rails**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [marcodelacruz.lat](marcodelacruz.lat)
 
