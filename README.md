@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en una **Aplicación web personal** con tecnologías como **Ruby on Rails, JavaScript, Bootstrap, MySQL** y siendo deployado en **Digital Ocean**
 
-- 🌱 Actualmente estoy aprendiendo **Java - Spring Boot, Rails**
+- 🌱 Actualmente estoy aprendiendo **Python y Django de manera autodidacta**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [marcodelacruz.lat](marcodelacruz.lat)
 
